@@ -1,0 +1,13 @@
+
+Titan Stock Price Prediction Project
+
+Best Model: XGBoost
+
+Training Accuracy : 91.68%
+Testing Accuracy  : 47.35%
+
+Most Important Feature:
+Price_to_MA20
+
+Least Important Feature:
+Lag2_Return

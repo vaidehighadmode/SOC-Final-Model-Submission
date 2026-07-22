@@ -1,0 +1,9 @@
+Feature,Importance
+Price_to_MA20,0.14034882
+MA5_to_MA20,0.13621081
+Volatility_5d,0.13547924
+Lag1_Return,0.122769184
+Volume_Change,0.121328466
+MA5,0.119515106
+Daily_Return,0.115532264
+Lag2_Return,0.10881607
