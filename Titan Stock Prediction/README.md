@@ -177,4 +177,5 @@ Possible improvements to the project include:
 - Real-time stock price prediction
 
 # Project by:
-Vaidehi
+Vaidehi Ghadmode
+25B1820
